@@ -1,5 +1,4 @@
-## Heyoooo everyone welcome to my git party!
+## Welcome, Git!
 
--Yo, Johnny here!
-      
+- This is coming from dev Miguel
 - I'm adding this from branch-name-2
