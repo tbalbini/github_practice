@@ -1,4 +1,3 @@
-console.log("Hello World");
 console.log("Hello World 11");
 console.log("Hello World 12 12");
 console.log("Hello World 13 13 13"); 
@@ -13,6 +12,3 @@ console.log("Hello World 21 21 21");
 console.log("Hello World 22 22 22");
 console.log("Hello World 23 23 23");
 console.log("Hello World 24 24 24");
-
-
-console.log("TRYING OUT REVERT");
